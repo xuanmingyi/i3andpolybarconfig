@@ -1,6 +1,6 @@
 # init environment 
 export TERM=xterm-256color
-export ZSH=/yourhome/.oh-my-zsh
+export ZSH=/root/.oh-my-zsh
 export LANG=zh_CN.UTF-8
 export LANGUAGE=zh_CN:en_US
 export LC_CTYPE=en_US.UTF-8

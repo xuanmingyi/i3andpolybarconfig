@@ -120,3 +120,12 @@ i3wm是一个平铺窗口管理器，使用i3wm不仅比装上桌面环境更剩
 ![2018-02-12-142954_1920x1080_scrot.png](http://upload-images.jianshu.io/upload_images/6948320-ddad3c54b597ccd2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
+
+
+################################################################################
+
+
+配置
+ln -sf .config
+ln -sf .zshrc
+
