@@ -1,4 +1,5 @@
 # init environment 
+export MONITOR=eDP-1
 export TERM=xterm-256color
 export ZSH=/root/.oh-my-zsh
 export LANG=zh_CN.UTF-8
