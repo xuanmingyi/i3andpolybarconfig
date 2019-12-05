@@ -2,8 +2,8 @@
 export MONITOR=eDP-1
 export TERM=xterm-256color
 export ZSH=/root/.oh-my-zsh
-export LANG=zh_CN.UTF-8
-export LANGUAGE=zh_CN:en_US
+export LANG=en_US.UTF-8
+export LANGUAGE=en_US
 export LC_CTYPE=en_US.UTF-8
 export GTK_IM_MODULE=fcitx
 export QT_IM_MOUDLE=fcitx
@@ -11,7 +11,8 @@ export XMODIFIERS=@im=fcitx
 export VISUAL="vim"
 
 POWERLEVEL9K_MODE='awesome-fontconfig'
-ZSH_THEME="powerlevel9k/powerlevel9k"
+#ZSH_THEME="powerlevel9k/powerlevel9k"
+ZSH_THEME="fox"
 
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
